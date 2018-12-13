@@ -1,0 +1,275 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{741CE47E-F7FF-44D7-A7DB-16B0A14BD3A0}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>WindowsFormsApplication1</RootNamespace>
+    <AssemblyName>Аленький цветочек</AssemblyName>
+    <TargetFrameworkVersion>v4.5</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup>
+    <ApplicationIcon>kuickshow_7628.ico</ApplicationIcon>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Form1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form1.Designer.cs">
+      <DependentUpon>Form1.cs</DependentUpon>
+    </Compile>
+    <Compile Include="lvl1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="lvl1.Designer.cs">
+      <DependentUpon>lvl1.cs</DependentUpon>
+    </Compile>
+    <Compile Include="lvl2.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="lvl2.Designer.cs">
+      <DependentUpon>lvl2.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="rezyltat.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="rezyltat.Designer.cs">
+      <DependentUpon>rezyltat.cs</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="Form1.resx">
+      <DependentUpon>Form1.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="lvl1.resx">
+      <DependentUpon>lvl1.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="lvl2.resx">
+      <DependentUpon>lvl2.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <SubType>Designer</SubType>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="rezyltat.resx">
+      <DependentUpon>rezyltat.cs</DependentUpon>
+    </EmbeddedResource>
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="bin\Debug\img\_yapfiles.ru.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="bin\Debug\img\0_3d5b5_7f4a5b0b_orig.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="bin\Debug\img\0_3d5bc_ad386c77_L.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="bin\Debug\img\0_8bdde_1cd76395_M.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="bin\Debug\img\0_8cb9e_c142dc57_orig.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="bin\Debug\img\152caca57206b10cd35fa48e5a90e0fe.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="bin\Debug\img\57998330.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="bin\Debug\img\clip-arts-7.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="bin\Debug\img\1375076096_16238_13316500454d53c183eb89f.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\tmb_144130_9775.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\16313iNsmrOoLwHhAYeBtnuqJxW.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\3.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\14.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\anywalls.com_1840.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\echoes-of-the-past-royal-house-of-stone-screenshot6.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\бабочка.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\сердечко.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\cruel-games-red-riding-hood-screenshot3.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\цветы.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\котик гиф.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\flover.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\kotik.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="bin\Debug\img\зеленыйцветок.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="bin\Debug\img\listdark.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="bin\Debug\img\listlight.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\заколка.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\зелье.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\зеркало.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\клубок.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\книга.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\кольцо.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\конфета.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\ластик.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\мешок.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\мышь.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\огниво.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\очки.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\перо.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\ручка.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\сапоги.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\часы.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\шар.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\шляпа.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\яюлоко.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\волшебная_палочка.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\fanfare1.wav" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\1.wav" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\фарики.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\шарики.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\kants01.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\0_77dcf_1a05d54f_M.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="kuickshow_7628.ico" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

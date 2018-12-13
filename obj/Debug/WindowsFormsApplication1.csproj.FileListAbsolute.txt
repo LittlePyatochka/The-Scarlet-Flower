@@ -1,0 +1,2 @@
+Z:\C#_Itog\Аленький цветочек_Камышанская_К-06-4-ОП-2016\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+Z:\C#_Itog\Аленький цветочек_Камышанская_К-06-4-ОП-2016\bin\Debug\WindowsFormsApplication1.exe.config

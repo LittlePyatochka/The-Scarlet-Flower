@@ -1,0 +1,101 @@
+Z:\C#_Itog\Аленький цветочек_Камышанская_К-06-4-ОП-2016\bin\Debug\WindowsFormsApplication1.exe.config
+Z:\C#_Itog\Аленький цветочек_Камышанская_К-06-4-ОП-2016\bin\Debug\WindowsFormsApplication1.exe
+Z:\C#_Itog\Аленький цветочек_Камышанская_К-06-4-ОП-2016\bin\Debug\WindowsFormsApplication1.pdb
+Z:\C#_Itog\Аленький цветочек_Камышанская_К-06-4-ОП-2016\obj\Debug\Alenki.csprojResolveAssemblyReference.cache
+Z:\C#_Itog\Аленький цветочек_Камышанская_К-06-4-ОП-2016\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+Z:\C#_Itog\Аленький цветочек_Камышанская_К-06-4-ОП-2016\obj\Debug\Alenki.csproj.GenerateResource.Cache
+Z:\C#_Itog\Аленький цветочек_Камышанская_К-06-4-ОП-2016\obj\Debug\WindowsFormsApplication1.exe
+Z:\C#_Itog\Аленький цветочек_Камышанская_К-06-4-ОП-2016\obj\Debug\WindowsFormsApplication1.pdb
+Z:\C#_Itog\Аленький цветочек_Камышанская_К-06-4-ОП-2016\obj\Debug\WindowsFormsApplication1.menu.resources
+Z:\C#_Itog\Аленький цветочек_Камышанская_К-06-4-ОП-2016\obj\Debug\WindowsFormsApplication1.lvl1.resources
+Z:\C#_Itog\Аленький цветочек_Камышанская_К-06-4-ОП-2016\obj\Debug\WindowsFormsApplication1.lvl2.resources
+C:\Users\Ксюша\Desktop\Аленький цветочек_Камышанская_К-06-4-ОП-2016\bin\Debug\WindowsFormsApplication1.exe.config
+C:\Users\Ксюша\Desktop\Аленький цветочек_Камышанская_К-06-4-ОП-2016\obj\Debug\WindowsFormsApplication1.exe
+C:\Users\Ксюша\Desktop\Аленький цветочек_Камышанская_К-06-4-ОП-2016\obj\Debug\WindowsFormsApplication1.pdb
+C:\Users\Ксюша\Desktop\Аленький цветочек_Камышанская_К-06-4-ОП-2016\bin\Debug\WindowsFormsApplication1.exe
+C:\Users\Ксюша\Desktop\Аленький цветочек_Камышанская_К-06-4-ОП-2016\bin\Debug\WindowsFormsApplication1.pdb
+C:\Users\Ксюша\Desktop\Аленький цветочек_Камышанская_К-06-4-ОП-2016\obj\Debug\Alenki.csprojResolveAssemblyReference.cache
+C:\Users\Ксюша\Desktop\Аленький цветочек_Камышанская_К-06-4-ОП-2016\obj\Debug\WindowsFormsApplication1.menu.resources
+C:\Users\Ксюша\Desktop\Аленький цветочек_Камышанская_К-06-4-ОП-2016\obj\Debug\WindowsFormsApplication1.lvl1.resources
+C:\Users\Ксюша\Desktop\Аленький цветочек_Камышанская_К-06-4-ОП-2016\obj\Debug\WindowsFormsApplication1.lvl2.resources
+C:\Users\Ксюша\Desktop\Аленький цветочек_Камышанская_К-06-4-ОП-2016\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\Ксюша\Desktop\Аленький цветочек_Камышанская_К-06-4-ОП-2016\obj\Debug\Alenki.csproj.GenerateResource.Cache
+C:\Users\04k0604\Desktop\Аленький цветочек_Камышанская_К-06-4-ОП-2016\bin\Debug\WindowsFormsApplication1.exe.config
+C:\Users\04k0604\Desktop\Аленький цветочек_Камышанская_К-06-4-ОП-2016\obj\Debug\WindowsFormsApplication1.exe
+C:\Users\04k0604\Desktop\Аленький цветочек_Камышанская_К-06-4-ОП-2016\obj\Debug\WindowsFormsApplication1.pdb
+Z:\C#_Itog\From home\Аленький цветочек_Камышанская_К-06-4-ОП-2016\obj\Debug\Alenki.csprojResolveAssemblyReference.cache
+Z:\C#_Itog\From home\Аленький цветочек_Камышанская_К-06-4-ОП-2016\obj\Debug\WindowsFormsApplication1.menu.resources
+Z:\C#_Itog\From home\Аленький цветочек_Камышанская_К-06-4-ОП-2016\obj\Debug\WindowsFormsApplication1.lvl1.resources
+Z:\C#_Itog\From home\Аленький цветочек_Камышанская_К-06-4-ОП-2016\obj\Debug\WindowsFormsApplication1.lvl2.resources
+Z:\C#_Itog\From home\Аленький цветочек_Камышанская_К-06-4-ОП-2016\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+Z:\C#_Itog\From home\Аленький цветочек_Камышанская_К-06-4-ОП-2016\obj\Debug\Alenki.csproj.GenerateResource.Cache
+T:\spb06\k0604\04k0604\C#_Itog\From home\Аленький цветочек_Камышанская_К-06-4-ОП-2016\bin\Debug\WindowsFormsApplication1.exe.config
+T:\spb06\k0604\04k0604\C#_Itog\From home\Аленький цветочек_Камышанская_К-06-4-ОП-2016\obj\Debug\WindowsFormsApplication1.exe
+T:\spb06\k0604\04k0604\C#_Itog\From home\Аленький цветочек_Камышанская_К-06-4-ОП-2016\obj\Debug\WindowsFormsApplication1.pdb
+T:\spb06\k0604\04k0604\C#_Itog\To home\Аленький цветочек_Камышанская_К-06-4-ОП-2016\bin\Debug\WindowsFormsApplication1.exe.config
+T:\spb06\k0604\04k0604\C#_Itog\To home\Аленький цветочек_Камышанская_К-06-4-ОП-2016\obj\Debug\WindowsFormsApplication1.exe
+T:\spb06\k0604\04k0604\C#_Itog\To home\Аленький цветочек_Камышанская_К-06-4-ОП-2016\obj\Debug\WindowsFormsApplication1.pdb
+Z:\C#_Itog\To home\Аленький цветочек_Камышанская_К-06-4-ОП-2016\bin\Debug\WindowsFormsApplication1.exe.config
+Z:\C#_Itog\To home\Аленький цветочек_Камышанская_К-06-4-ОП-2016\obj\Debug\WindowsFormsApplication1.exe
+Z:\C#_Itog\To home\Аленький цветочек_Камышанская_К-06-4-ОП-2016\obj\Debug\WindowsFormsApplication1.pdb
+Z:\C#_Itog\To home\Аленький цветочек_Камышанская_К-06-4-ОП-2016\bin\Debug\WindowsFormsApplication1.exe
+Z:\C#_Itog\To home\Аленький цветочек_Камышанская_К-06-4-ОП-2016\bin\Debug\WindowsFormsApplication1.pdb
+Z:\C#_Itog\To home\Аленький цветочек_Камышанская_К-06-4-ОП-2016\obj\Debug\Alenki.csprojResolveAssemblyReference.cache
+Z:\C#_Itog\To home\Аленький цветочек_Камышанская_К-06-4-ОП-2016\obj\Debug\WindowsFormsApplication1.menu.resources
+Z:\C#_Itog\To home\Аленький цветочек_Камышанская_К-06-4-ОП-2016\obj\Debug\WindowsFormsApplication1.lvl1.resources
+Z:\C#_Itog\To home\Аленький цветочек_Камышанская_К-06-4-ОП-2016\obj\Debug\WindowsFormsApplication1.lvl2.resources
+Z:\C#_Itog\To home\Аленький цветочек_Камышанская_К-06-4-ОП-2016\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+Z:\C#_Itog\To home\Аленький цветочек_Камышанская_К-06-4-ОП-2016\obj\Debug\Alenki.csproj.GenerateResource.Cache
+C:\Users\Ксюша\Desktop\Новая папка (4)\Аленький цветочек_Камышанская_К-06-4-ОП-2016\bin\Debug\WindowsFormsApplication1.exe.config
+C:\Users\Ксюша\Desktop\Новая папка (4)\Аленький цветочек_Камышанская_К-06-4-ОП-2016\obj\Debug\WindowsFormsApplication1.exe
+C:\Users\Ксюша\Desktop\Новая папка (4)\Аленький цветочек_Камышанская_К-06-4-ОП-2016\obj\Debug\WindowsFormsApplication1.pdb
+C:\Users\Ксюша\Desktop\Новая папка (4)\Аленький цветочек_Камышанская_К-06-4-ОП-2016\bin\Debug\WindowsFormsApplication1.exe
+C:\Users\Ксюша\Desktop\Новая папка (4)\Аленький цветочек_Камышанская_К-06-4-ОП-2016\bin\Debug\WindowsFormsApplication1.pdb
+C:\Users\Ксюша\Desktop\Новая папка (4)\Аленький цветочек_Камышанская_К-06-4-ОП-2016\obj\Debug\Alenki.csprojResolveAssemblyReference.cache
+C:\Users\Ксюша\Desktop\Новая папка (4)\Аленький цветочек_Камышанская_К-06-4-ОП-2016\obj\Debug\WindowsFormsApplication1.menu.resources
+C:\Users\Ксюша\Desktop\Новая папка (4)\Аленький цветочек_Камышанская_К-06-4-ОП-2016\obj\Debug\WindowsFormsApplication1.lvl1.resources
+C:\Users\Ксюша\Desktop\Новая папка (4)\Аленький цветочек_Камышанская_К-06-4-ОП-2016\obj\Debug\WindowsFormsApplication1.lvl2.resources
+C:\Users\Ксюша\Desktop\Новая папка (4)\Аленький цветочек_Камышанская_К-06-4-ОП-2016\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\Ксюша\Desktop\Новая папка (4)\Аленький цветочек_Камышанская_К-06-4-ОП-2016\obj\Debug\Alenki.csproj.GenerateResource.Cache
+C:\Users\04k0604\Desktop\Новая папка (4)\Аленький цветочек_Камышанская_К-06-4-ОП-2016\bin\Debug\WindowsFormsApplication1.exe.config
+C:\Users\04k0604\Desktop\Новая папка (4)\Аленький цветочек_Камышанская_К-06-4-ОП-2016\obj\Debug\WindowsFormsApplication1.exe
+C:\Users\04k0604\Desktop\Новая папка (4)\Аленький цветочек_Камышанская_К-06-4-ОП-2016\obj\Debug\WindowsFormsApplication1.pdb
+C:\Users\04k0604\Desktop\Новая папка (4)\Аленький цветочек_Камышанская_К-06-4-ОП-2016\bin\Debug\WindowsFormsApplication1.exe
+C:\Users\04k0604\Desktop\Новая папка (4)\Аленький цветочек_Камышанская_К-06-4-ОП-2016\bin\Debug\WindowsFormsApplication1.pdb
+C:\Users\04k0604\Desktop\Новая папка (4)\Аленький цветочек_Камышанская_К-06-4-ОП-2016\obj\Debug\Alenki.csprojResolveAssemblyReference.cache
+C:\Users\04k0604\Desktop\Новая папка (4)\Аленький цветочек_Камышанская_К-06-4-ОП-2016\obj\Debug\WindowsFormsApplication1.menu.resources
+C:\Users\04k0604\Desktop\Новая папка (4)\Аленький цветочек_Камышанская_К-06-4-ОП-2016\obj\Debug\WindowsFormsApplication1.lvl1.resources
+C:\Users\04k0604\Desktop\Новая папка (4)\Аленький цветочек_Камышанская_К-06-4-ОП-2016\obj\Debug\WindowsFormsApplication1.lvl2.resources
+C:\Users\04k0604\Desktop\Новая папка (4)\Аленький цветочек_Камышанская_К-06-4-ОП-2016\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\04k0604\Desktop\Новая папка (4)\Аленький цветочек_Камышанская_К-06-4-ОП-2016\obj\Debug\Alenki.csproj.GenerateResource.Cache
+C:\Users\Ксюша\Desktop\Новая папка (4)\Аленький цветочек_Камышанская_К-06-4-ОП-2016\obj\Debug\WindowsFormsApplication1.rezyltat.resources
+C:\Users\04k0604\Desktop\Новая папка (2)\Аленький цветочек_Камышанская_К-06-4-ОП-2016\bin\Debug\WindowsFormsApplication1.exe.config
+C:\Users\04k0604\Desktop\Новая папка (2)\Аленький цветочек_Камышанская_К-06-4-ОП-2016\obj\Debug\WindowsFormsApplication1.exe
+C:\Users\04k0604\Desktop\Новая папка (2)\Аленький цветочек_Камышанская_К-06-4-ОП-2016\obj\Debug\WindowsFormsApplication1.pdb
+C:\Users\04k0604\Desktop\Новая папка (2)\Аленький цветочек_Камышанская_К-06-4-ОП-2016\bin\Debug\WindowsFormsApplication1.exe
+C:\Users\04k0604\Desktop\Новая папка (2)\Аленький цветочек_Камышанская_К-06-4-ОП-2016\bin\Debug\WindowsFormsApplication1.pdb
+C:\Users\04k0604\Desktop\Новая папка (2)\Аленький цветочек_Камышанская_К-06-4-ОП-2016\obj\Debug\Alenki.csprojResolveAssemblyReference.cache
+C:\Users\04k0604\Desktop\Новая папка (2)\Аленький цветочек_Камышанская_К-06-4-ОП-2016\obj\Debug\WindowsFormsApplication1.menu.resources
+C:\Users\04k0604\Desktop\Новая папка (2)\Аленький цветочек_Камышанская_К-06-4-ОП-2016\obj\Debug\WindowsFormsApplication1.lvl1.resources
+C:\Users\04k0604\Desktop\Новая папка (2)\Аленький цветочек_Камышанская_К-06-4-ОП-2016\obj\Debug\WindowsFormsApplication1.lvl2.resources
+C:\Users\04k0604\Desktop\Новая папка (2)\Аленький цветочек_Камышанская_К-06-4-ОП-2016\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\04k0604\Desktop\Новая папка (2)\Аленький цветочек_Камышанская_К-06-4-ОП-2016\obj\Debug\WindowsFormsApplication1.rezyltat.resources
+C:\Users\04k0604\Desktop\Новая папка (2)\Аленький цветочек_Камышанская_К-06-4-ОП-2016\obj\Debug\Alenki.csproj.GenerateResource.Cache
+C:\Users\Ксюша\Desktop\последняя\Аленький цветочек_Камышанская_К-06-4-ОП-2016\obj\Debug\Alenki.csprojResolveAssemblyReference.cache
+C:\Users\Ксюша\Desktop\последняя\Аленький цветочек_Камышанская_К-06-4-ОП-2016\obj\Debug\WindowsFormsApplication1.menu.resources
+C:\Users\Ксюша\Desktop\последняя\Аленький цветочек_Камышанская_К-06-4-ОП-2016\obj\Debug\WindowsFormsApplication1.lvl1.resources
+C:\Users\Ксюша\Desktop\последняя\Аленький цветочек_Камышанская_К-06-4-ОП-2016\obj\Debug\WindowsFormsApplication1.lvl2.resources
+C:\Users\Ксюша\Desktop\последняя\Аленький цветочек_Камышанская_К-06-4-ОП-2016\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\Ксюша\Desktop\последняя\Аленький цветочек_Камышанская_К-06-4-ОП-2016\obj\Debug\WindowsFormsApplication1.rezyltat.resources
+C:\Users\Ксюша\Desktop\последняя\Аленький цветочек_Камышанская_К-06-4-ОП-2016\obj\Debug\Alenki.csproj.GenerateResource.Cache
+Z:\C#_Itog\From home\Аленький цветочек_Камышанская_К-06-4-ОП-2016\obj\Debug\WindowsFormsApplication1.rezyltat.resources
+Z:\C#_Itog\From home\Аленький цветочек_Камышанская_К-06-4-ОП-2016\bin\Debug\Аленький цветочек.exe.config
+Z:\C#_Itog\From home\Аленький цветочек_Камышанская_К-06-4-ОП-2016\bin\Debug\Аленький цветочек.exe
+Z:\C#_Itog\From home\Аленький цветочек_Камышанская_К-06-4-ОП-2016\bin\Debug\Аленький цветочек.pdb
+Z:\C#_Itog\From home\Аленький цветочек_Камышанская_К-06-4-ОП-2016\obj\Debug\Аленький цветочек.exe
+Z:\C#_Itog\From home\Аленький цветочек_Камышанская_К-06-4-ОП-2016\obj\Debug\Аленький цветочек.pdb
+C:\Users\Ксюша\Desktop\последняя\Аленький цветочек_Камышанская_К-06-4-ОП-2016\bin\Debug\Аленький цветочек.exe.config
+C:\Users\Ксюша\Desktop\последняя\Аленький цветочек_Камышанская_К-06-4-ОП-2016\obj\Debug\Аленький цветочек.exe
+C:\Users\Ксюша\Desktop\последняя\Аленький цветочек_Камышанская_К-06-4-ОП-2016\obj\Debug\Аленький цветочек.pdb
+C:\Users\Ксюша\Desktop\последняя\Аленький цветочек_Камышанская_К-06-4-ОП-2016\bin\Debug\Аленький цветочек.exe
+C:\Users\Ксюша\Desktop\последняя\Аленький цветочек_Камышанская_К-06-4-ОП-2016\bin\Debug\Аленький цветочек.pdb
